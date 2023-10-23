@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/nicolaspanel/numjs.png)](https://travis-ci.org/nicolaspanel/numjs) [![npm version](https://badge.fury.io/js/numjs.svg)](https://badge.fury.io/js/numjs) [![Bower version](https://badge.fury.io/bo/numjs.svg)](https://badge.fury.io/bo/numjs) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
+[![Build!Status](https://travis-ci.org/nicolaspanel/numjs.png)](https://travis-ci.org/nicolaspanel/numjs)![![npm version](https://badge.fury.io/js/numjs.svg)](https://badge.fury.io/js/numjs) [![Bower version](https://badge.fury.io/bo/numjs.svg)](https://badge.fury.io/bo/numjs) [![Built with Grunt](https://cdn.gruntjs.com/builtwith.svg)](http://gruntjs.com/)
 
 __NumJs__ is a npm/bower package for scientific computing with JavaScript. It contains among other things:
  - a powerful N-dimensional array object
@@ -14,7 +14,7 @@ __NumJs__ is licensed under the [MIT license](https://github.com/nicolaspanel/nu
 
 __[See this jsfiddle](https://jsfiddle.net/nicolaspanel/047gwg0q/)__ for a concrete example of how to use the library to manipulate images in the browser.
 
-## Installation
+ # Installation
 
 ### on node.js
 
@@ -735,3 +735,4 @@ See documentation on [numjs globals](http://nicolaspanel.github.io/numjs/global.
 
 ## Credits
 __NumJs__ is built on top of [ndarray](http://scijs.net/packages/#scijs/ndarray) and uses many [scijs packages](http://scijs.net/packages/)
+ 
